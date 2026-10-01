@@ -151,7 +151,10 @@ studied_credits: academic credits
 
 In the imd_band list for studentInfo.csv, missing data is recorded as ?
 
-In the sum_click list for studentVle.csv, missing data or no interaction record is recorded as 0.
+The selected subset has no blank cells.
+
+
+For students with no interaction records in the sum_click list for studentVle.csv, the planned count table will record 0 interactions.
 
 ### Specialized formats or abbreviations
 
